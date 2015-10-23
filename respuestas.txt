@@ -1,2 +1,4 @@
-¿Que es RVM (Ruby Version Manager)?
+Que es RVM (Ruby Version Manager)?
 El RVM es el control de versiones de Ruby es una plataforma diseñada para controlar las multiples instalaciones de Ruby en el mismo dispositivo.
+¿Cuales son las diferencias entre la ejecucion del programa "Hola Mundo" con el interprete de Ruby y el interprete interactivo del ejercicio anterior?
+Que usando el interprete de Ruby se muestra solo la salida del programa, en cambio con el interprete interactivo te muestra todo el codigo del programa.
